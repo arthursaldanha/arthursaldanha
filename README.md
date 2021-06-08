@@ -26,8 +26,8 @@ issues and that's why I'm looking for an opportunity to get started in this care
   <img align="center" alt="Arthur-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
-You can reach me on:
 
+You can reach me on:
 <p align="left">
   <a href="https://www.linkedin.com/in/arthursaldanha"><img src="https://github.com/carlanakajuni/carlanakajuni/blob/master/linkedin-round.svg" width="35px" alt="LinkedIn"></a> &nbsp; &nbsp;
   <a href="https://www.instagram.com/saldanha.jpg/"><img src="https://github.com/carlanakajuni/carlanakajuni/blob/master/instagram-round.svg" width="35px" alt="Instagram"></a> &nbsp; &nbsp;
