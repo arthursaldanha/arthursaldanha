@@ -14,30 +14,28 @@ issues and that's why I'm looking for an opportunity to get started in this care
 
 :pray: Please, feel free to send me feedbacks and contributing to my GitHub Page :octocat:
 
-<div>
+<div align="center">
   <a href="https://github.com/arthursaldanha">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthursaldanha&layout=compact&langs_count=16&theme=dracula"/>
 </div>
-<div style="display: inline_block"><br>
+<div align="center"><br>
   <img align="center" alt="Arthur-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Arthur-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Arthur-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg">
   <img align="center" alt="Arthur-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Arthur-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
+</div>  
 
-
-You can reach me on:
-<p align="left">
+  
+  ##
+<p align="center">You can reach me on:</p>
+<p align="center">
   <a href="https://www.linkedin.com/in/arthursaldanha"><img src="https://github.com/carlanakajuni/carlanakajuni/blob/master/linkedin-round.svg" width="35px" alt="LinkedIn"></a> &nbsp; &nbsp;
   <a href="https://www.instagram.com/saldanha.jpg/"><img src="https://github.com/carlanakajuni/carlanakajuni/blob/master/instagram-round.svg" width="35px" alt="Instagram"></a> &nbsp; &nbsp;
   <a href="https://t.me/asalds"><img src="https://github.com/carlanakajuni/carlanakajuni/blob/master/telegram-round.svg" width="35px" alt="Telegram"></a> &nbsp; &nbsp;
   <a href="mailto:saldanhadev@gmail.com?subject=Hello%20Carla"><img src="https://github.com/carlanakajuni/carlanakajuni/blob/master/gmail.png" width="35px" alt="Gmail"></a> &nbsp; &nbsp;
 </p>
 
-  
-  ##
- 
 <div> 
  
   ![Snake animation](https://github.com/arthursaldanha/arthursaldanha/blob/output/github-contribution-grid-snake.svg)
