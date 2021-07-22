@@ -10,7 +10,7 @@
 
 :pray: Please, feel free to send me feedbacks and contributing to my GitHub Page :octocat:
 
-<p align="center">You can reach me on:</p>
+## ☎️ You can reach me on:
 <div align="center"><br>
 
    [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitelink=https://www.linkedin.com/in/arthursaldanha)](https://www.linkedin.com/in/arthursaldanha)
@@ -18,7 +18,7 @@
    [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/saldanha.jpg/)](https://www.instagram.com/saldanha.jpg/)
    [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/asalds)
    [![Gmail Badge](https://img.shields.io/badge/-saldanhadev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:saldanhadev@gmail.com)](mailto:saldanhadev@gmail.com)
-   [![ProtonMail Badge](https://img.shields.io/badge/saldanhadev@gmail.com-8B89CC?style=for-the-badge&logo=protonmaillogoColor=white&link=mailto:saldanhadev@protonmail.com)](mailto:saldanhadev@protonmail.com)
+   [![ProtonMail Badge](https://img.shields.io/badge/saldanhadev@protonmail.com-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&link=mailto:saldanhadev@protonmail.com)](mailto:saldanhadev@protonmail.com)
 </div>  
 
   
@@ -48,6 +48,8 @@
   <img src="https://img.shields.io/badge/RAM-3GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
 </p>
 
+
+## ⚡ Github Stats
 <a href="https://github.com/arthursaldanha">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=arthursaldanha&count_private=true&show_icons=true&include_all_commits=true&theme=react" />
 </a>
