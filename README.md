@@ -43,8 +43,8 @@
 
 <p align='center'>
   💻 My workspace<br/><br/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Intel-Core_2_Duo_Inside-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
+  <a href="https://lubuntu.me/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
+  <a hraf="https://ark.intel.com/content/www/br/pt/ark/products/40479/intel-core-2-duo-processor-t6400-2m-cache-2-00-ghz-800-mhz-fsb.html"><img src="https://img.shields.io/badge/Intel-Core_2_Duo_Inside-0071C5?style=for-the-badge&logo=intel&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/RAM-3GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
 </p>
 
