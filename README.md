@@ -14,7 +14,7 @@
 <div align="center"><br>
 
    [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitelink=https://www.linkedin.com/in/arthursaldanha)](https://www.linkedin.com/in/arthursaldanha)
-   [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5579981169065&text=Ol%C3%A1%20Arthur,%20tudo%20bem%20Venho%20atrav%C3%A9s%20do%20seu%20reposit%C3%B3rio%20Github!)
+   [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5579981169065&text=Ol%C3%A1%20Arthur,%20tudo%20bem?%20Venho%20atrav%C3%A9s%20do%20seu%20reposit%C3%B3rio%20Github!)
    [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/saldanha.jpg/)](https://www.instagram.com/saldanha.jpg/)
    [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/asalds)
    [![Gmail Badge](https://img.shields.io/badge/-saldanhadev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:saldanhadev@gmail.com)](mailto:saldanhadev@gmail.com)
