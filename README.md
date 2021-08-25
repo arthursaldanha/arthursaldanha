@@ -4,7 +4,7 @@
 
 :sunny: **Information:** 
 
-- :seedling: I’m currently learning JavaScript;
+- :seedling: I’m currently learning React.JS;
 - :thought_balloon: A big believer that technology can resolve many issues and that's why I'm looking for an opportunity to get started in this career;
 - :house_with_garden: I'm currently living in Aracajú - Sergipe - Brazil;
 
