@@ -4,8 +4,8 @@
 
 :sunny: **Information:**
 
-- :seedling: I’m currently learning Testing Library with Jest;
-- :thought_balloon: A big believer that technology can resolve many issues and that's why I'm looking for an opportunity to get started in this career;
+- :seedling: I’m currently learning Kubernetes and CI/CD;
+- :thought_balloon: A big believer that technology can resolve many issues;
 - :house_with_garden: I'm currently living in Aracajú - Sergipe - Brazil;
 
 :pray: Please, feel free to send me feedbacks and contributing to my GitHub Page :octocat:
